@@ -1,0 +1,147 @@
+.aligning {
+  width: 75%;
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left_form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-top: 25px;
+}
+.banner {
+  margin-top: 20px;
+  width: 78%;
+  margin-left: 50px;
+}
+
+.banner img {
+  height: 33em;
+  float: right;
+}
+
+.user_input {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 25px;
+}
+
+label {
+  font-weight: 600;
+  padding-bottom: 7px;
+}
+
+input {
+  height: 22px;
+  color: #232323;
+  /* background: rgba(181,192,199, .1);  */
+  border: 0.8px solid #232323;
+  height: 30px;
+}
+
+::placeholder {
+  margin-right: 30px;
+  opacity: 0.9;
+}
+
+.f_name {
+  padding: 3px 0px 4px 10px;
+}
+
+.input_reminder {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.line {
+  border: 0.5px solid rgba(116, 113, 113, 0.507);
+  width: 200px;
+}
+
+h5 {
+  font-size: 12px;
+  font-weight: 400;
+  opacity: 0.4;
+  margin-top: 10px;
+}
+
+.question_box {
+  margin-bottom: 10px;
+  width: 447px;
+}
+
+.question p {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 17px;
+}
+
+.answers {
+  text-align: left;
+  display: flex;
+  padding-left: 10px;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.answers label {
+  text-align: start;
+  margin: 4px 3px 4px 9px;
+}
+
+.answer_box {
+  opacity: 0.6;
+  display: flex;
+  justify-content: center;
+}
+
+.answer_box input {
+  margin-top: 15px;
+  width: 85%;
+  padding-left: 15px;
+  height: 30px;
+}
+
+.next_page_button {
+  margin-bottom: 20px;
+}
+
+.advice_box {
+  padding-left: 38px;
+  font-size: 16px;
+  font-weight: 600;
+  display: flex;
+  flex-direction: column;
+}
+
+.advice_box p {
+  margin: 20px 0 0 0;
+}
+
+.input_answer textarea {
+  height: 120px;
+  width: 90%;
+  word-wrap: break-word;
+        word-break: break-all;
+}
+
+.finish {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.finish button {
+  padding: 6px 23px;
+  border-radius: 20px;
+  font-size: 16px;
+  text-align: center;
+  margin-right: 47px;
+  font-weight: 600;
+}
