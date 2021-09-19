@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/covid-survey/static/css/main.8515ab13.chunk.css",
-    "main.js": "/covid-survey/static/js/main.2a87c087.chunk.js",
-    "main.js.map": "/covid-survey/static/js/main.2a87c087.chunk.js.map",
-    "runtime-main.js": "/covid-survey/static/js/runtime-main.2b2bca04.js",
-    "runtime-main.js.map": "/covid-survey/static/js/runtime-main.2b2bca04.js.map",
-    "static/js/2.63596737.chunk.js": "/covid-survey/static/js/2.63596737.chunk.js",
-    "static/js/2.63596737.chunk.js.map": "/covid-survey/static/js/2.63596737.chunk.js.map",
-    "static/js/3.df5f96b0.chunk.js": "/covid-survey/static/js/3.df5f96b0.chunk.js",
-    "static/js/3.df5f96b0.chunk.js.map": "/covid-survey/static/js/3.df5f96b0.chunk.js.map",
+    "main.css": "/covid-survey/static/css/main.759b543b.chunk.css",
+    "main.js": "/covid-survey/static/js/main.e67d85f1.chunk.js",
+    "main.js.map": "/covid-survey/static/js/main.e67d85f1.chunk.js.map",
+    "runtime-main.js": "/covid-survey/static/js/runtime-main.6cb5172b.js",
+    "runtime-main.js.map": "/covid-survey/static/js/runtime-main.6cb5172b.js.map",
+    "static/js/2.63e2a596.chunk.js": "/covid-survey/static/js/2.63e2a596.chunk.js",
+    "static/js/2.63e2a596.chunk.js.map": "/covid-survey/static/js/2.63e2a596.chunk.js.map",
+    "static/js/3.038c9339.chunk.js": "/covid-survey/static/js/3.038c9339.chunk.js",
+    "static/js/3.038c9339.chunk.js.map": "/covid-survey/static/js/3.038c9339.chunk.js.map",
     "index.html": "/covid-survey/index.html",
-    "static/css/main.8515ab13.chunk.css.map": "/covid-survey/static/css/main.8515ab13.chunk.css.map",
-    "static/js/2.63596737.chunk.js.LICENSE.txt": "/covid-survey/static/js/2.63596737.chunk.js.LICENSE.txt",
+    "static/css/main.759b543b.chunk.css.map": "/covid-survey/static/css/main.759b543b.chunk.css.map",
+    "static/js/2.63e2a596.chunk.js.LICENSE.txt": "/covid-survey/static/js/2.63e2a596.chunk.js.LICENSE.txt",
     "static/media/bike.41e84494.png": "/covid-survey/static/media/bike.41e84494.png",
     "static/media/boy.bef2b627.png": "/covid-survey/static/media/boy.bef2b627.png",
     "static/media/doctor.70190fb3.png": "/covid-survey/static/media/doctor.70190fb3.png",
     "static/media/people.2f032314.png": "/covid-survey/static/media/people.2f032314.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b2bca04.js",
-    "static/js/2.63596737.chunk.js",
-    "static/css/main.8515ab13.chunk.css",
-    "static/js/main.2a87c087.chunk.js"
+    "static/js/runtime-main.6cb5172b.js",
+    "static/js/2.63e2a596.chunk.js",
+    "static/css/main.759b543b.chunk.css",
+    "static/js/main.e67d85f1.chunk.js"
   ]
 }
