@@ -1,7 +1,7 @@
 Survey about Covid. Created with React.
 Project is a design only, without functionals.
 
-
+--------------------------------------------------------
 
 # Getting Started with Create React App
 
